@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        This is resturent booking
+        hello php
     </h1>
 </body>
 </html>
